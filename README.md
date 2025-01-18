@@ -1,5 +1,8 @@
 # Trans Mountain Pipeline Project
 
+![Trans Mountain Dashboard](trans-mountain.png)
+
+
 ### Introduction
 The Trans Mountain Pipeline Project is a comprehensive data analysis study conducted by Falcon Analysts. The project's scope revolves around understanding and resolving the complexities surrounding the pipeline expansion, including legal, political, social, and environmental challenges. This analysis provides key insights to assist decision-makers in balancing the commercial merits of the pipeline with the concerns of First Nations, Indigenous peoples, and environmental groups.
 
